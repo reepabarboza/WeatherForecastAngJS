@@ -11,4 +11,4 @@ weatherApp.directive('weatherReport', function() {
             dateFormat:'@'
         }
     }
-})
+});
